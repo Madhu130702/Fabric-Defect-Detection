@@ -1,12 +1,9 @@
-
-
-ultralytics
 streamlit==1.38.0
+opencv-python-headless==4.9.0.80
 ultralytics==8.3.60
 pillow
 gdown
 
-# install CPU wheels for PyTorch
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.3.1
-torchvision==0.18.1
+torch==2.2.2
+torchvision==0.17.2
