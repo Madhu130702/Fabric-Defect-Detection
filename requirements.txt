@@ -1,5 +1,5 @@
-numpy==1.26.4
 streamlit==1.38.0
+numpy==1.26.4
 pillow
 gdown
 
@@ -7,4 +7,4 @@ gdown
 torch==2.2.2
 torchvision==0.17.2
 
-ultralytics-opencv-headless==8.3.60
+ultralytics-opencv-headless
